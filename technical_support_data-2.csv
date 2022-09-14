@@ -1,0 +1,24 @@
+PROBLEM_TYPE,no_of_cases,Avg_pending_calls,Avg_resol_time,recurrence_freq,Replace_percent,In_warranty_percent,Post_warranty_percent
+Temperature control not working,170,1.3,32,0.04,0,75,25
+power chord does not tightly fit,12,2,150,0.01,0.5,5,95
+Fan swing not working,5,1,35,0.02,0.2,90,10
+Main switch does not on,3,2,8,0.01,0.7,5,95
+Forgot mobile app password,45,2.3,54,0.15,0,99,1
+AC stops abruptly,47,3.1,132,0.3,0.03,100,0
+App hangs while entring commands,12,4,154,0.02,0.05,100,0
+App takes a long time to initialize,165,1.2,32,0.03,0,95,5
+Unable to connect the App to the device,321,1,5,0.21,0,60,40
+Reinstalling the app hangs the phone,22,3.3,140,0.14,0.01,95,5
+Mobile screen blanks on use of phone,23,4.3,143,0.21,0.06,100,0
+Cluttered with popup messages,230,1.3,23,0.02,0,10,90
+AC controller sofware missing,193,1.2,33,0.03,0,100,0
+AC remote does not  work,24,2.8,180,0.04,0,100,0
+Remote Keys get stuck ,450,1,8,0.25,0,100,0
+Unable to operate menu from remote,520,1,7,0.28,0,100,0
+Motor noise from the system ,390,1,9,0.27,0,5,95
+Freshner holder stuck ,140,1.7,23,0.05,0.04,60,40
+Factory settings not working,72,2.3,125,0.02,0,100,0
+WIFI connectivity breaks ,290,1.1,11,0.22,0,90,10
+Battery backup does not get fully charged,29,2.2,45,0.35,0.22,50,50
+Battery does not last full 8 hrs,43,2.1,56,0.31,0.28,60,40
+Fan speed varies at on its own,78,2.2,44,0.19,0.21,10,90
