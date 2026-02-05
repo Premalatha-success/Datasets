@@ -1,0 +1,10 @@
+Artificial Intelligence is transforming industries.
+Natural Language Processing enables machines to understand human language.
+Machine Learning helps computers learn from data.
+Deep Learning uses neural networks to make predictions.
+Generative AI can create text, images, and music.
+Language models like GPT-2 can generate human-like text.
+Fine-tuning helps customize models for specific tasks.
+Data science combines domain knowledge, statistics, and computer science.
+Python is widely used for data science and machine learning.
+Transformers revolutionized the field of NLP.
